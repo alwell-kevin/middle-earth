@@ -12,4 +12,4 @@ wizard.castSpell();
 
 wizard.warmUp("BooooM");
 
-wizard.castSpell();
+wizard.castSpell()
